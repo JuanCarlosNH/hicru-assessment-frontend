@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const DOMAIN = "http://localhost:8080";
+const DOMAIN = "https://hicru-assessment-backend.onrender.com";
 const API_BASE_POSITION_ENDPOINT =  `${DOMAIN}/api/positions`;
 const API_KEY = "8qLP7pS52L36SwcykStk40WlJCfsEH4AHH9TlhnFVuw28AEWnYeCpoYO1ETLEFFJgZSltW9CENdey2vVWFEuDtBRHm5wWYyAqiWAYG7GIVL7MByUC4nQpj6rHMXcCH0U";
 
