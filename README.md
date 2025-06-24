@@ -12,3 +12,8 @@ Local Development
 5. Open the project from the IDE(Visual Studio Code)
 6. Run `npm install` to install all dependencies
 7. Run `npm start` to run the app.
+
+Development environment
+=======
+
+After pushing up new changes to master branch, those changes are going to deploy in Vercel
